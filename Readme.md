@@ -4,15 +4,13 @@
   </a>
   <br/>
 
-  <a href="https://www.linkedin.com/in/blesslin-e/" target="_blank">
+  <a href="https://www.linkedin.com/in/blessline/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.instagram.com/blesslin_e/" target="_blank">
+  <a href="https://www.instagram.com/blesslin_7/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://hashnode.com/@blessline" target="_blank">
-    <img src="https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode" style="margin-bottom: 5px;" />
-  </a>
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
