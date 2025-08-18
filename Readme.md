@@ -7,9 +7,10 @@
   <a href="https://www.linkedin.com/in/blessline/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.instagram.com/blesslin_7/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-  </a>
+<a href="https://play.google.com/store/apps/details?id=com.parttimej.parttime_j&hl=en_IN" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" style="margin-bottom: 5px;" />
+</a>
+
 
 </p>
 
