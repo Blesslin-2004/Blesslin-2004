@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Blesslin-2004">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Hello,+I'm+Blesslin+E!;Aspiring+Native+Android+Developer;Passionate+about+Mobile+App+Development;Building+Innovative+Android+Apps;Let's+Create+Something+Amazing!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Hello,+I'm+Blesslin+!;Native+Android+Developer+and+DevOps+Engineer;Passionate+about+Mobile+App+Development;Building+Innovative+Android+Apps;Let's+Create+Something+Amazing!">
   </a>
   <br/>
 
@@ -19,7 +19,7 @@
 ```yaml
 🚀 The Journey So Far
 - 🎓 Computer Science Graduate (Aspiring Native Android Developer)  
-- 💡 Passionate about Mobile Development, UI/UX, and User-Centric Applications  
+- 💡 Passionate about Mobile Development, DevOps, UI/UX, and User-Centric Applications  
 - 🔥 Building Android apps with Kotlin, Jetpack, and more  
 - 🤝 Open to collaborations on Android apps, design, and open-source projects  
 - 🚀 Constantly learning, innovating, and pushing the boundaries of mobile tech
